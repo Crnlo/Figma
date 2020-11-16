@@ -7,7 +7,7 @@ CV-Portafolio (curso) . fig
 PrimerosPasosFigma
 
 wireframe
-3 versiones:
+info para reclutadores 3 versiones (Github no me permite subir estos archivos) :
 
 Mobile.html
 Tablets.html
