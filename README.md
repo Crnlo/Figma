@@ -1,4 +1,4 @@
-# Figma
+# wireframes Design with Figma
 
 En este repositorio :
 
