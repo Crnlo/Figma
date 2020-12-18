@@ -4,8 +4,7 @@ En este repositorio :
 
 SketchCVPortafolio
 CV-Portafolio (curso) . fig
-PrimerosPasosFigma
-
+PrimerosPaso
 wireframe
 info para reclutadores 3 versiones (Github no me permite subir estos archivos) :
 
